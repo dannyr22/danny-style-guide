@@ -1,0 +1,56 @@
+/* {
+    border: 3px solid red;
+}*/
+body {
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+.title {
+    padding-top: 3rem;
+}
+
+main {
+    position: relative;
+    top: 2.5rem;
+}
+.top {
+    border: 1px solid gray;
+}
+.colors {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  
+}
+.color {
+   display: flex;
+   width: 20%;
+   min-width: 100px;
+   height: auto;
+   min-height: 130px;
+   justify-content: center;
+   align-items: center;
+   margin: 5px;
+   border-radius: 5px;
+}
+.color-1 {
+    background-color: salmon;
+    
+}
+.color-2 {
+    background-color: darkblue;
+}
+.color-3 {
+    background-color: mediumorchid;
+}
+.color-4 {
+    background-color: teal;
+}
+.color-label {
+    color: whitesmoke ;
+    font-size: 1rem;
+    font-weight: 300;
+    
+}
