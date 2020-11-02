@@ -57,3 +57,58 @@ main {
     
 }
 /* fonts*/
+.source-font {
+    font-family: 'Source Code Pro';
+}
+.source-1 {
+    font-family: 'Source Code Pro';
+}
+.source-2 {
+    font-family: 'Source Code Pro';
+    font-style: italic;
+}
+.source-3 {
+    font-family: 'Source Code Pro';
+    font-weight: 600;
+}
+
+.nunito-font { 
+    font-family: 'Nunito Sans';
+}
+.nunito-1 {
+    font-family: 'Nunito Sans';
+}
+.nunito-2 {
+    font-family: 'Nunito Sans';
+    font-style: italic;
+}
+.nunito-3 {
+    font-family: 'Nunito Sans';
+    font-weight: 600;
+}
+.poppins-font { 
+    font-family: 'Poppins';
+}
+.poppins-1 {
+    font-family: 'Poppins';
+}
+.poppins-2 {
+    font-family: 'Poppins';
+    font-style: italic;
+}
+.poppins-3 {
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+.middle {
+    margin-top: 1rem;
+    border: 1px solid gray;
+}
+.fonts {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.font {
+    margin: 10px;
+}
