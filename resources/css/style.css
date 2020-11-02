@@ -17,11 +17,13 @@ main {
 }
 .top {
     border: 1px solid gray;
+    
 }
 .colors {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+    justify-content: center;
   
 }
 .color {
@@ -54,3 +56,4 @@ main {
     font-weight: 300;
     
 }
+/* fonts*/
