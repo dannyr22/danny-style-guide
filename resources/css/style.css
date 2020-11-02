@@ -112,3 +112,32 @@ main {
 .font {
     margin: 10px;
 }
+
+/*End of Fonts*/
+
+/* beginning of text styles*/
+.lower {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid gray;
+}
+.big h1 {
+    font-family: 'Nunito Sans';
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.medium h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins';
+}
+
+.small p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Poppins';
+}
+.text-styles {
+    padding-left: 1rem;
+}
